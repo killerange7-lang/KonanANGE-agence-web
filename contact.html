@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact • Phey Records</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav class="navbar">
+        <input type="checkbox" id="menu-toggle" class="menu-toggle">
+        
+        <div class="nav-container">
+            <a href="index.html" class="logo">
+                <span class="logo-text">PHEY</span><span class="logo-dot">●</span><span class="logo-text">RECORDS</span>
+            </a>
+            
+            <ul class="nav-links">
+                <li><a href="index.html" class="nav-link">Accueil</a></li>
+                <li><a href="services.html" class="nav-link">Services</a></li>
+                <li><a href="about.html" class="nav-link">À propos</a></li>
+                <li><a href="contact.html" class="nav-link active">Contact</a></li>
+            </ul>
+            
+            <a href="contact.html" class="btn-reserver">RÉSERVER UNE SESSION</a>
+            
+            <label for="menu-toggle" class="hamburger">
+                <span></span><span></span><span></span>
+            </label>
+        </div>
+        
+        <div class="mobile-menu">
+            <ul>
+                <li><a href="index.html">Accueil</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="apropos.html">À propos</a></li>
+                <li><a href="contact.html">Contact</a></li>
+                <li><a href="contact.html" class="btn-reserver mobile-btn">RÉSERVER UNE SESSION</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <header class="page-header">
+        <h1>Contactez-nous</h1>
+        <p class="page-subtitle">Prêt à enregistrer votre prochain hit ?</p>
+    </header>
+
+    <section class="contact-section">
+        <div class="container contact-grid">
+            <div class="contact-info">
+                <h3>Nous trouver</h3>
+                <div class="info-item"><strong>Adresse :</strong> Rue des Artistes, Cocody<br>Abidjan, Côte d'Ivoire</div>
+                <div class="info-item"><strong>Téléphone :</strong> +225 01 23 45 67 89</div>
+                <div class="info-item"><strong>Email :</strong> contact@pheyrecords.ci</div>
+                <div class="info-item"><strong>Horaires :</strong> Lundi – Vendredi : 9h – 18h<br>Samedi : 10h – 16h</div>
+                
+                <div class="map-placeholder">
+                    <div class="map-box">📍 Studio Phey Records • Abidjan</div>
+                </div>
+            </div>
+            
+            <form class="contact-form" action="#" method="POST">
+                <div class="form-group">
+                    <label>Nom complet</label>
+                    <input type="text" name="name" placeholder="Votre nom" required>
+                </div>
+                <div class="form-group">
+                    <label>Email</label>
+                    <input type="email" name="email" placeholder="votre@email.com" required>
+                </div>
+                <div class="form-group">
+                    <label>Service souhaité</label>
+                    <select name="service">
+                        <option value="">Choisir un service</option>
+                        <option value="enregistrement">Enregistrement Studio</option>
+                        <option value="mixage">Mixage & Mastering</option>
+                        <option value="beat">Production Beat</option>
+                        <option value="location">Location Salle</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label>Message</label>
+                    <textarea name="message" rows="6" placeholder="Décrivez votre projet musical..." required></textarea>
+                </div>
+                <button type="submit" class="btn-primary full-width">Envoyer ma demande</button>
+                <p class="form-note">Nous vous répondons sous 24h maximum.</p>
+            </form>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-col">
+                    <div class="logo-footer">PHEY RECORDS</div>
+                    <p>Studio de musique premium à Abidjan.<br>Le rythme de demain se crée aujourd'hui.</p>
+                </div>
+                <div class="footer-col">
+                    <h4>Navigation</h4>
+                    <a href="index.html">Accueil</a>
+                    <a href="services.html">Services</a>
+                    <a href="apropos.html">À propos</a>
+                    <a href="contact.html">Contact</a>
+                </div>
+                <div class="footer-col">
+                    <h4>Contact rapide</h4>
+                    <p>+225 01 23 45 67 89</p>
+                    <p>contact@pheyrecords.ci</p>
+                    <p>Rue des Artistes, Cocody<br>Abidjan, Côte d'Ivoire</p>
+                </div>
+                <div class="footer-col">
+                    <h4>Suivez-nous</h4>
+                    <div class="socials">
+                        <a href="#" class="social-link">Instagram</a>
+                        <a href="#" class="social-link">TikTok</a>
+                        <a href="#" class="social-link">YouTube</a>
+                        <a href="#" class="social-link">Spotify</a>
+                    </div>
+                    <p class="copyright">© 2026 Phey Records — Tous droits réservés</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
