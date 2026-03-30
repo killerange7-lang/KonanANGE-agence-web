@@ -7,7 +7,7 @@ Site vitrine moderne et innovant réalisé dans le cadre du module **Git & GitHu
 ---
 
 ## 👤 Auteur
-**Killer** — 1re Année Bachelor Développement Web
+**Konan Ange** — 1re Année Bachelor Développement Web
 
 ---
 
@@ -15,10 +15,10 @@ Site vitrine moderne et innovant réalisé dans le cadre du module **Git & GitHu
 - **HTML5**
 - **CSS3** (Flexbox, Grid, variables CSS, animations pures, checkbox hack pour le menu mobile)
 - **Git & GitHub** (branches feature, commits descriptifs, GitHub Pages)
-- Design moderne sans JavaScript
+- Design moderne s
 
 ---
 
 ## 🌐 Site en ligne
-[👉 Voir le site live](https://ton-username.github.io/killer-agence-web/)
+[👉 Voir le site live](https://killerange7-lang.github.io/konanAnge-agence-web/)
 
