@@ -18,5 +18,6 @@ Site vitrine moderne et innovant réalisé dans le cadre du module **Git & GitHu
 ---
 
 ## 🌐 Site en ligne
-[👉 Voir le site live]: (https://killerange7-lang.github.io/KonanANGE-agence-web/)
+
+[👉 Voir le site live]: https://killerange7-lang.github.io/KonanANGE-agence-web/
 
