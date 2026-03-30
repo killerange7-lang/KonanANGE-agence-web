@@ -1,16 +1,24 @@
-# [Nom de ton agence]
-[cite_start]Site Vitrine [cite: 82, 83]
+# Phey Records — Studio de Musique Ivoirien
 
-## Description
-[cite_start]Site vitrine réalisé dans le cadre du module Git & GitHub du Bachelor Développement Web[cite: 84, 85]. 
-[Ajoute ici une courte phrase pour décrire l'entreprise que tu as choisie, par exemple : "Ce site présente un salon de coiffure avec ses prestations et son équipe."]
+Site vitrine moderne et innovant réalisé dans le cadre du module **Git & GitHub**, Bachelor Développement Web — 1re Année.
 
-## Auteur
-[Ton Prénom] [Ton Nom] - 1re Année Bachelor Dev. [cite_start]Web [cite: 88]
+**Phey Records** est un studio d’enregistrement premium basé à Abidjan (Côte d’Ivoire) spécialisé dans l’enregistrement, la production, le mixage et le mastering. Le site met en valeur l’identité ivoirienne tout en proposant un design neon, futuriste et 100 % responsive.
 
-## Technologies
-- [cite_start]HTML5 / CSS3 [cite: 90]
-- Git / GitHub
+---
 
-## Site en ligne
-[cite_start][Colle ici le lien GitHub Pages de ton site dès qu'on l'aura généré à la fin] [cite: 79]
+## 👤 Auteur
+**Killer** — 1re Année Bachelor Développement Web
+
+---
+
+## 🛠️ Technologies utilisées
+- **HTML5**
+- **CSS3** (Flexbox, Grid, variables CSS, animations pures, checkbox hack pour le menu mobile)
+- **Git & GitHub** (branches feature, commits descriptifs, GitHub Pages)
+- Design moderne sans JavaScript
+
+---
+
+## 🌐 Site en ligne
+[👉 Voir le site live](https://ton-username.github.io/killer-agence-web/)
+
